@@ -33,5 +33,7 @@ export class HomeComponent implements OnInit ,OnDestroy{
   getVal():void{
     this.Count=this.countService.getCount();
   }
- 
+  onRightClick(event: any) {
+    event.preventDefault();
+  }
 }

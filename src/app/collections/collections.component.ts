@@ -15,4 +15,7 @@ export class CollectionsComponent implements OnInit {
   }
   onActivate(event:any) {
     setTimeout(function(){window.scrollTo(0,0)} ,1500);   }
+  onRightClick(event:any) {
+    return false;
+  }
 }
