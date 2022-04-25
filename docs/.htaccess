@@ -1,5 +1,5 @@
 <Directory  ~ "\assets">
     RewriteEngine On
     RewriteCond %{HTTP_REFERER} !^https?://(.+\.)?elephunks\.com/ [NC]
-    RewriteRule .* http://elephunks.com/ [L]
+    RewriteRule .* https?://elephunks.com/ [F]
 </Directory>
