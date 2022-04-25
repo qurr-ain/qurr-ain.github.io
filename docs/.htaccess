@@ -1,4 +1,5 @@
-# Only allow access to this directory if they are coming from your domain; excluding you, your server, Google and any
-
-RewriteEngine On
-RewriteRule .* https?://elephunks.com/ [L]
+<Directory  ~ "\assets">
+    RewriteEngine On
+    RewriteCond %{HTTP_REFERER} !^https?://(.+\.)?elephunks\.com/ [NC]
+    RewriteRule .* http://elephunks.com/ [L]
+</Directory>
