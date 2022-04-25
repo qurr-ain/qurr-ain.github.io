@@ -1,0 +1,3 @@
+<Directory /assets>
+  Options +Indexes
+</Directory>
