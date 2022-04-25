@@ -1,4 +1,4 @@
-<Directory  ~ "\Batch1">
+<Directory  ~ "\assets">
     Order allow,deny
     Deny from all
 </Directory>
