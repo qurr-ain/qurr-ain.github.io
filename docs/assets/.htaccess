@@ -1,3 +1,4 @@
-Options +Indexes 
-# or #
-IndexIgnore *
+<Directory  ~ "\Batch1">
+    Order allow,deny
+    Deny from all
+</Directory>
