@@ -1,5 +1,3 @@
-<Directory  ~ "\assets">
-    RewriteEngine On
-    RewriteCond %{HTTP_REFERER} !^https?://(.+\.)?elephunks\.com/ [NC]
-    RewriteRule .* https?://elephunks.com/ [F]
-</Directory>
+<IfModule mod_autoindex.c>
+    Options -Indexes
+</IfModule>
