@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="760px" height="760px" viewBox="0 0 760 760" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>pentas_logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M243.632572,0 C366.556279,0 464.844303,105.404662 465.12,243.385976 C465.389154,381.367291 364.185481,487.813181 243.632572,487.92 L0,487.92 L0,76 C-5.14028851e-15,34.026359 34.026359,7.71043276e-15 76,0 L243.632572,0 L243.632572,0 Z" id="path-1"></path>
+        <linearGradient x1="87.6418405%" y1="0%" x2="12.3581595%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#15DAF4" offset="0%"></stop>
+            <stop stop-color="#58068D" offset="100%"></stop>
+        </linearGradient>
+        <path d="M203.68,0.00697051086 L203.68,211.28 C203.68,244.858913 176.458913,272.08 142.88,272.08 L137.31236,272.08 L137.31236,272.08 C67.0633564,271.807927 0,212.162717 0,136.043485 C0,59.9242534 60.204604,-0.748032146 137.31236,0.00697051086 L203.68,0.00697051086 Z" id="path-4"></path>
+        <linearGradient x1="91.2893415%" y1="0%" x2="8.71065855%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#15DAF4" offset="0%"></stop>
+            <stop stop-color="#58068D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#15DAF4" offset="0%"></stop>
+            <stop stop-color="#58068D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="pentas_logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(45.600000, 0.000000)">
+            <g id="Group-4">
+                <g id="Rectangle" transform="translate(203.680000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                    <rect fill="url(#linearGradient-3)" mask="url(#mask-2)" x="-198.36" y="0" width="662.72" height="763.8"></rect>
+                </g>
+                <g id="Rectangle" transform="translate(0.000000, 487.920000)">
+                    <mask id="mask-5" fill="white">
+                        <use xlink:href="#path-4"></use>
+                    </mask>
+                    <use id="Mask" fill="#FFFFFF" xlink:href="#path-4"></use>
+                    <rect fill="url(#linearGradient-6)" mask="url(#mask-5)" x="0" y="-482.6" width="685.798951" height="754.68"></rect>
+                </g>
+            </g>
+            <path d="M159.113363,488.516276 L204.548684,488.524828 L204.548684,699.2 C204.548684,732.778913 177.327597,760 143.748684,760 L138.305072,760 C86.403531,759.799053 36.2441582,727.138776 13.6849192,679.379195 C57.8584176,610.990419 106.336333,547.371103 159.113363,488.516276 Z M668.799465,244.521192 C669.068117,382.199304 568.053573,488.411289 447.725955,488.517873 L204.548684,488.517873 L204.544995,440.109468 C329.252819,313.158789 475.911924,210.535601 644.522308,132.239901 L644.533257,132.244463 C659.987193,165.522998 668.717645,203.585282 668.799465,244.521192 Z" id="Combined-Shape" fill="url(#linearGradient-7)"></path>
+        </g>
+    </g>
+</svg>
